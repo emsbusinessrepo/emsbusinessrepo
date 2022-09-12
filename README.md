@@ -1,9 +1,8 @@
 ### Hi! Welcome to my GitHub Repository 👋. 
 My name is Soh En Ming and I'm currently a 2nd Year Student at Monash University 📚
-
 The course I'm currently undertaking is Bachelor of Computer Science in Data Science 
 
-The repositories in my profile have been made private for confidentiality reasons. If you would like to view them please contact me through enming.soh@gmail.com.
+The repositories in my profile have been made private for confidentiality. If you would like to view them please contact me through my email enming.soh@gmail.com so I can invite you as collaborators in my repository. 
 
 
 <!--
