@@ -1,6 +1,9 @@
-### Hi! Welcome to my GitHub Repository. Firstly my name is Soh En Ming and 
-###I'm currently a 2nd Year Student at Monash University and
-###
+### Hi! Welcome to my GitHub Repository 👋. 
+My name is Soh En Ming and I'm currently a 2nd Year Student at Monash University 📚
+The course I'm currently undertaking is Bachelor of Computer Science in Data Science 
+
+The repositories in my profile have been made private for confidentiality reasons. If you would like to view them please contact me through enming.soh@gmail.com.
+
 
 <!--
 **emsbusinessrepo/emsbusinessrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
