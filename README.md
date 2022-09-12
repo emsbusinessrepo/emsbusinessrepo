@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! Welcome to my GitHub Repository. Firstly my name is Soh En Ming and I'm currently a 2nd Year Student at Monash University and
+###
 
 <!--
 **emsbusinessrepo/emsbusinessrepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
