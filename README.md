@@ -1,6 +1,11 @@
 ### Hi! Welcome to my GitHub Repository 👋. 
-My name is Soh En Ming and I'm a recent MSc in AI & BCS in Data Sc graduate from Monash University 📚 <br>
-Below is all the projects, assignments, capstones which I've created throughout my education.
+My name is Soh En Ming and I'm a recent MSc in AI & BCS in Data Sci graduate from Monash University 📚 <br>
+Below contains the repositories for my projects, assignments, capstones which I've created throughout my education.
+
+Additional Websites about me: <br>
+- MSc in AI Capstone Website link: https://caknak.vercel.app
+- BCS in Data Sci Capstone Website link: https://mds15fyp.github.io/GUI_MDS15/
+- Hugging Face (Space & Models Created): https://huggingface.co/EMS-Royal
 
 
 <!--
